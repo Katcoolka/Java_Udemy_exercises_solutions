@@ -112,7 +112,7 @@ public class Main {
 	}
 
 	private static void printActions() {
-		System.out.println("\nAvailable actions:\nPress selected number");
+		System.out.println("\nAvailable actions: \nPress selected number");
 		System.out.println("0 - to shutdown");
 		System.out.println("1 - to print contacts");
 		System.out.println("2 - to add a new contact");
